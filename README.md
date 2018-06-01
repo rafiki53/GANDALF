@@ -1,0 +1,2 @@
+# GANDALF
+Gandalf zadanie
