@@ -1,4 +1,4 @@
-#solution to problem 3, which i understand also works for problem 1 for the deterministic case
+#solution to problem 3, which as I understand also works for problem 1 for the deterministic case
 #assumes the automaton is deterministic and complete (transitions specified for all letters)
 
 from sympy import *
